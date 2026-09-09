@@ -13,5 +13,5 @@ I am an undergraduate student pursuing a **Double Degree in Mathematics and Comp
 - Designing relational database schemas and Entity-Relationship models.
 
 ### 📫 How to reach me
-- **LinkedIn:** [Tu enlace de LinkedIn]
+- **LinkedIn:** www.linkedin.com/in/simon-rossi
 - **Email:** simonpoikat@gmail.com
