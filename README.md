@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Simón Rossi Poikat 👋
 
-<!--
-**simon-rossi-poikat/simon-rossi-poikat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate student pursuing a **Double Degree in Mathematics and Computer Science** at Universidad de Granada. I am highly passionate about algorithmic design, mathematical modeling, and software architecture.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, C++, SQL
+- **Libraries:** NumPy, SciPy, Matplotlib
+- **Tools:** Visual Studio Code, Jupyter Notebooks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm currently working on
+- Developing robust C++ applications focusing on Object-Oriented Programming (OOP) and dynamic memory management.
+- Implementing numerical analysis algorithms in Python (polynomial interpolation, splines, least-squares).
+- Designing relational database schemas and Entity-Relationship models.
+
+### 📫 How to reach me
+- **LinkedIn:** [Tu enlace de LinkedIn]
+- **Email:** simonpoikat@gmail.com
